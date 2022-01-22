@@ -11,6 +11,8 @@
 <p align='center'>
 <a href="https://stackoverflow.com/users/13475266/grizzly-monkey"><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/grizzly-monkey"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discord.gg/4azhBfYjH3"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://open.spotify.com/user/ssv2ejr881vbrtzthx29afld6"><img height="30" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>  
 </p>
 
 -----------------------
