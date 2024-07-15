@@ -3,7 +3,7 @@
 <p align="center">
   <img width="60%" src="https://github.com/grizzly-monkey/grizzly-monkey/blob/main/code.gif" align="center" alt="I love coding" />
   <h2 align="center">
-    Staff Software Engineer @ <a href="https://mariadb.com">MariaDB Corporation</a>
+    Engineering Manager @ <a href="https://mariadb.com">SkySQL (MariaDB)</a>
   </h2>
   <p align="center">Versatile Software Engineer and System Architect</p>
 </p>
