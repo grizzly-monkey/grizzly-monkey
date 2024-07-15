@@ -5,7 +5,7 @@
   <h2 align="center">
     Engineering Manager @ <a href="https://skysql.com">SkySQL (MariaDB)</a>
   </h2>
-  <p align="center">Versatile Software Engineer and System Architect</p>
+  <p align="center">Versatile Engineering Leader</p>
 </p>
 
 <p align='center'>
